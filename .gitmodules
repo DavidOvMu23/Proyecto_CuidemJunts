@@ -1,3 +1,7 @@
 [submodule "Frontend_CuidemJunts"]
 	path = Frontend_CuidemJunts
 	url = https://github.com/DavidOvMu23/Frontend_CuidemJunts
+[submodule "Backend_CudemJunts/nest_backend"]
+	path = Backend_CudemJunts/nest_backend
+	url = https://github.com/DavidOvMu23/nest_backend.git
+	branch = main
