@@ -1,7 +1,7 @@
 [submodule "Frontend_CuidemJunts"]
 	path = Frontend_CuidemJunts
-	url = https://github.com/DavidOvMu23/Frontend_CuidemJunts
+	url = git@github.com:DavidOvMu23/Frontend_CuidemJunts.git
 [submodule "Backend_CudemJunts"]
 	path = Backend_CudemJunts
-	url = https://github.com/DavidOvMu23/Backend_CudemJunts.git
+	url = git@github.com:DavidOvMu23/Backend_CudemJunts.git
 	branch = main
