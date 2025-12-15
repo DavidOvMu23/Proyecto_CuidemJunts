@@ -44,3 +44,5 @@ Si formas parte del equipo o quieres colaborar en el proyecto, por favor contact
 ---
 
 Gracias por ayudar a cuidar juntos a quienes más lo necesitan. 💙
+
+https://bluuweb.dev/nestjs/auth-jwt.html
